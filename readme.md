@@ -1,2 +1,2 @@
 # NVSP
-![](docs/screenshot.png)
+![](index.html)
